@@ -1,0 +1,16 @@
+{
+
+  "testSiteurl":"https://weather.com/",
+
+"locators":{
+     
+       "searchPage":{
+                      "search": "Bangalore, Karnataka, India",
+                        "next" :"next"
+                    }
+                    
+            }         
+            
+  
+
+}
